@@ -22,6 +22,9 @@ Polymechany is a property of the surrounding system, not a personal trait. It is
 
 The decisive shift is from mastery that must be held inside the practitioner to coordination costs that are absorbed by the interface. Absorption means the interface performs or reliably coordinates the relevant translation, constraint satisfaction, and intermediate technical work. It does not include coordination burdens that are merely deferred, shifted to the user or another party, or concealed until failure. A reduction in immediate friction is not, by itself, evidence that coordination costs have been absorbed.
 
+Residual judgment by the practitioner includes detecting failed absorption, including by means of tests, audits, or cross-checks the environment supplies.
+Polymechany is also distinct from nearby system-level concepts. Abstraction hides detail within a layer or domain; automation replaces specific tasks; modularity permits recombination across defined interfaces; low-code lowers entry barriers within a platform’s scope. Deskilling describes a possible effect on practitioners, not a condition of the system. Polymechany names the absorption of cross-domain coordination costs such that high-level intent becomes the ordinary unit of action. Abstraction, automation, modularity, and low-code may contribute to it; none alone constitutes it.
+
 ### Ordinal Scale
 
 Degrees of polymechany are graded along three dimensions:
@@ -30,7 +33,8 @@ Degrees of polymechany are graded along three dimensions:
 - **Friction absorption**: the fraction of translation, constraint satisfaction, and intermediate technical work performed by the interface rather than by the practitioner.
 - **Defaultness**: the extent to which cross-domain execution is the ordinary mode of action in the environment rather than an exceptional practice.
 
-The three dimensions need not advance together. An environment may show high domain span with low reliability, high friction absorption inside a narrow cluster, or high defaultness without genuine cross-domain span. When the dimensions diverge, stage assignment is a matter of explicit judgment rather than a mechanical rule.
+An environment is any bounded setting in which interfaces and practitioners operate together, such as a toolchain, workflow, team, or organization. Stage assignments are relative to the stated environment.
+The scale describes the degree of absorption, not its desirability. Higher stages do not imply better outcomes, and “polymechanize” names an intervention, not an endorsement. The three dimensions need not advance together. An environment may show high domain span with low reliability, high friction absorption inside a narrow cluster, or high defaultness without genuine cross-domain span. When the dimensions diverge, stage assignment is a matter of explicit judgment rather than a mechanical rule.
 
 #### Stages
 
@@ -58,7 +62,7 @@ Correct use refers to systemic leverage and friction absorption.
 
 ### Relation to the Kardashev Scale
 
-Polymechany is orthogonal to the Kardashev energy scale. Kardashev ranks energy throughput; polymechany ranks the density with which available energy and knowledge are converted into cross-domain, intention-directed outcomes. The two may be reported jointly (e.g., K 0.73 / P1). A mature polymechany is the condition in which rising coordination costs are absorbed by interfaces so that high-level intent remains the ordinary unit of action, regardless of energy scale.
+Polymechany is conceptually independent of the Kardashev energy scale. Kardashev ranks energy throughput; polymechany ranks the degree to which interfaces absorb cross-domain coordination costs. The two may be reported side by side, but neither determines the other.
 
 ### Quantification Status
 
