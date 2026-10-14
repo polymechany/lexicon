@@ -20,7 +20,7 @@ Polymechany is a property of the surrounding system, not a personal trait. It is
 - **Interdisciplinarity or transdisciplinarity**, which name modes of inquiry or collaborative practice rather than a baseline technological condition under which an agent’s intent operates.
 - **Generalism or jack-of-all-trades**, which describe personal breadth and carry no implication that coordination costs have been absorbed by interfaces.
 
-The decisive shift is from mastery that must be held inside the practitioner to coordination costs that are absorbed by the interface. Absorption means the interface performs or reliably coordinates the relevant translation, constraint satisfaction, and intermediate technical work. It does not include coordination burdens that are merely deferred, shifted to the user or another party, or concealed until failure. A reduction in immediate friction is not, by itself, evidence that coordination costs have been absorbed. 
+The decisive shift is from mastery that must be held inside the practitioner to coordination costs that are absorbed by the interface. Absorption means the interface performs or reliably coordinates the relevant translation, constraint satisfaction, and intermediate technical work. It does not include coordination burdens that are merely deferred, shifted to the user or another party, or concealed until failure. A reduction in immediate friction is not, by itself, evidence that coordination costs have been absorbed.
 
 ### Ordinal Scale
 
@@ -58,7 +58,7 @@ Correct use refers to systemic leverage and friction absorption.
 
 ### Relation to the Kardashev Scale
 
-Polymechany is orthogonal to the Kardashev energy scale. Kardashev ranks energy throughput; polymechany ranks the density with which available energy and knowledge are converted into cross-domain, intention-directed outcomes. The two may be reported jointly (e.g., K 0.73 / P1.4). A mature polymechany is the condition in which rising coordination costs are absorbed by interfaces so that high-level intent remains the ordinary unit of action, regardless of energy scale.
+Polymechany is orthogonal to the Kardashev energy scale. Kardashev ranks energy throughput; polymechany ranks the density with which available energy and knowledge are converted into cross-domain, intention-directed outcomes. The two may be reported jointly (e.g., K 0.73 / P1). A mature polymechany is the condition in which rising coordination costs are absorbed by interfaces so that high-level intent remains the ordinary unit of action, regardless of energy scale.
 
 ### Quantification Status
 
