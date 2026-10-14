@@ -9,7 +9,7 @@ From Homeric Greek *polymēchanos* (“of many devices,” “ingenious in contr
 ### Definitions
 
 - **Polymechany** (n.): The systemic condition in which adaptable interfaces collapse the coordination costs of disparate skill stacks, so that cross-domain execution from high-level intent becomes the ordinary unit of effective action rather than an exceptional or elite practice.
-- **Polymechan** (n.): A practitioner who operates inside a polymechany, translating high-level intent across domains by means of systemic leverage rather than by internalized specialization in each domain.
+- - **Polymechan** (n.): A practitioner who operates inside a polymechany, supplying high-level intent that spans domains and exercising judgment, including detecting failed absorption, while the interface performs, to the degree the environment has absorbed it, the intermediate translation and constraint work that would otherwise require internalized specialization in each domain.
 - **Polymechanize** (v.): To redesign an environment, interface, or workflow so that it absorbs technical friction and thereby lowers the barrier to cross-domain action.
 
 ### Distinctions
