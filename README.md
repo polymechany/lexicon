@@ -23,6 +23,7 @@ Polymechany is a property of the surrounding system, not a personal trait. It is
 The decisive shift is from mastery that must be held inside the practitioner to coordination costs that are absorbed by the interface. Absorption means the interface performs or reliably coordinates the relevant translation, constraint satisfaction, and intermediate technical work. It does not include coordination burdens that are merely deferred, shifted to the user or another party, or concealed until failure. A reduction in immediate friction is not, by itself, evidence that coordination costs have been absorbed.
 
 Residual judgment by the practitioner includes detecting failed absorption, including by means of tests, audits, or cross-checks the environment supplies.
+
 Polymechany is also distinct from nearby system-level concepts. Abstraction hides detail within a layer or domain; automation replaces specific tasks; modularity permits recombination across defined interfaces; low-code lowers entry barriers within a platform’s scope. Deskilling describes a possible effect on practitioners, not a condition of the system. Polymechany names the absorption of cross-domain coordination costs such that high-level intent becomes the ordinary unit of action. Abstraction, automation, modularity, and low-code may contribute to it; none alone constitutes it.
 
 ### Ordinal Scale
@@ -34,7 +35,10 @@ Degrees of polymechany are graded along three dimensions:
 - **Defaultness**: the extent to which cross-domain execution is the ordinary mode of action in the environment rather than an exceptional practice.
 
 An environment is any bounded setting in which interfaces and practitioners operate together, such as a toolchain, workflow, team, or organization. Stage assignments are relative to the stated environment.
-The scale describes the degree of absorption, not its desirability. Higher stages do not imply better outcomes, and “polymechanize” names an intervention, not an endorsement. The three dimensions need not advance together. An environment may show high domain span with low reliability, high friction absorption inside a narrow cluster, or high defaultness without genuine cross-domain span. When the dimensions diverge, stage assignment is a matter of explicit judgment rather than a mechanical rule.
+
+The scale describes the degree of absorption, not its desirability. Higher stages do not imply better outcomes, and “polymechanize” names an intervention, not an endorsement.
+
+The three dimensions need not advance together. An environment may show high domain span with low reliability, high friction absorption inside a narrow cluster, or high defaultness without genuine cross-domain span. When the dimensions diverge, stage assignment is a matter of explicit judgment rather than a mechanical rule.
 
 #### Stages
 
