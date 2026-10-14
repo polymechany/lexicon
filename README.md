@@ -20,7 +20,7 @@ Polymechany is a property of the surrounding system, not a personal trait. It is
 - **Interdisciplinarity or transdisciplinarity**, which name modes of inquiry or collaborative practice rather than a baseline technological condition under which an agent’s intent operates.
 - **Generalism or jack-of-all-trades**, which describe personal breadth and carry no implication that coordination costs have been absorbed by interfaces.
 
-The decisive shift is from mastery that must be held inside the practitioner to coordination costs that are absorbed by the interface.
+The decisive shift is from mastery that must be held inside the practitioner to coordination costs that are absorbed by the interface. Absorption means the interface performs or reliably coordinates the relevant translation, constraint satisfaction, and intermediate technical work. It does not include coordination burdens that are merely deferred, shifted to the user or another party, or concealed until failure. A reduction in immediate friction is not, by itself, evidence that coordination costs have been absorbed. 
 
 ### Ordinal Scale
 
@@ -30,13 +30,15 @@ Degrees of polymechany are graded along three dimensions:
 - **Friction absorption**: the fraction of translation, constraint satisfaction, and intermediate technical work performed by the interface rather than by the practitioner.
 - **Defaultness**: the extent to which cross-domain execution is the ordinary mode of action in the environment rather than an exceptional practice.
 
+The three dimensions need not advance together. An environment may show high domain span with low reliability, high friction absorption inside a narrow cluster, or high defaultness without genuine cross-domain span. When the dimensions diverge, stage assignment is a matter of explicit judgment rather than a mechanical rule.
+
 #### Stages
 
 - **P0 (Pre-polymechany)**: Interfaces accelerate work inside isolated disciplines. The practitioner remains the primary integrator. Domain span, friction absorption, and defaultness are all low.
 - **P1 (Partial / assistive)**: Interfaces absorb substantial friction inside limited domain clusters. Friction absorption is high within those clusters but low outside them. Domain span is moderate inside the clusters; defaultness remains low. The practitioner continues to supply high-level intent, trade-off judgment, and frequent correction.
 - **P2 (Operational)**: Cross-domain intent is the ordinary unit of work inside defined environments. Domain span is broad within those environments, friction absorption is reliable across the relevant stacks, and defaultness is high. The practitioner’s residual role is primarily semantic intent and final judgment.
 - **P3 (Mature)**: Cross-domain execution is the default mode across most technical and design domains relevant to the environment. Domain span is wide, friction absorption covers the large majority of coordination costs, and defaultness is systemic. High-level intent suffices for routine traversal of previously separate skill stacks.
-- **P4 (Saturated)**: Domain distinctions function mainly as residual framing; the system treats them as continuous constraint spaces. Friction absorption is near-complete, defaultness is total within the environment, and biological cognitive bandwidth is no longer a structural bottleneck.
+- **P4 (Saturated)**: Friction absorption is near-complete and defaultness is total within the environment. Intermediate coordination is no longer a structural bottleneck; residual human judgment may still constrain outcomes.
 
 Decimals (e.g., P1.4) may be used once quantitative proxies are established. The scale remains open to revision.
 
