@@ -8,11 +8,19 @@ From Greek *polymēchanos* (“of many devices,” “ingenious in contrivance�
 
 ### Definitions
 
-- **Polymechany** (n.): The systemic condition in which adaptable interfaces collapse the coordination costs of disparate skill stacks, so that cross-domain execution from high-level intent becomes the ordinary unit of effective action rather than an exceptional or elite practice.
-- **Polymechan** (n.): A practitioner who operates inside a polymechany, supplying high-level intent that spans domains and exercising judgment, including detecting failed absorption, while the interface performs, to the degree the environment has absorbed it, the intermediate translation and constraint work that would otherwise require internalized specialization in each domain.
-- **Polymechanize** (v.): To redesign an environment, interface, or workflow so that it absorbs technical friction and thereby lowers the barrier to cross-domain action.
+#### Formal
+
+- **Polymechany** (n.): The systemic condition in which adaptable interfaces collapse the coordination costs of disparate skill stacks, so that cross-domain execution from high-level intent becomes the ordinary unit of effective action rather than an exceptional or elite practice. Applies to a stated bounded environment (toolchain, workflow, team, or organization) that meets or exceeds the P1 threshold.
+- **Polymechan** (n.): A practitioner (human or non-human) who operates inside such an environment, supplying high-level intent and exercising residual judgment, including detecting failed absorption.
+- **Polymechanize** (v.): To redesign an environment so that it absorbs technical friction and thereby lowers the barrier to cross-domain action.
 
 The practitioner role is functional. A human or a non-human intelligence can occupy it; the term names the role, not the kind of occupant. See Locus of Intent.
+
+#### Informal
+
+- **Polymechany**: The condition in which adaptable systems collapse the coordination costs of disparate skill stacks, so that high-level intent can be enacted across domains without requiring internalized specialization in each.
+- **Polymechan**: The role that supplies that intent and exercises judgment over it, whether the role is occupied by an external agent or by the system itself.
+- **Polymechanize**: To change a workflow or set of tools so that greater polymechany can be achieved.
 
 ### Distinctions
 
