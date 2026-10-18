@@ -34,9 +34,11 @@ The decisive shift is from mastery that must be held inside the practitioner to 
 
 Residual judgment by the practitioner includes detecting failed absorption, including by means of tests, audits, or cross-checks the environment supplies.
 
-Polymechany is also distinct from nearby system-level concepts. Abstraction hides detail within a layer or domain; automation replaces specific tasks; modularity permits recombination across defined interfaces; low-code lowers entry barriers within a platform’s scope. Deskilling describes a possible effect on practitioners, not a condition of the system. Polymechany names the absorption of cross-domain coordination costs such that high-level intent becomes the ordinary unit of action. Abstraction, automation, modularity, and low-code may contribute to it; none alone constitutes it.
+Polymechany is also distinct from nearby system-level concepts. Abstraction hides detail within a layer or domain; automation replaces specific tasks; modularity permits recombination across defined interfaces; low-code lowers entry barriers within a platform’s scope. Deskilling describes a possible effect on practitioners, not a condition of the system. In the formal register, polymechany names the absorption of cross-domain coordination costs such that high-level intent becomes the ordinary unit of action. Abstraction, automation, modularity, and low-code may contribute to it; none alone constitutes it.
 
 ### Ordinal Scale
+
+The ordinal scale, including the P1 threshold and its stages, belongs to the formal register. It grades environments below P1 as well as above it; only P1 and above is a polymechany, and only under the formal definition. The informal register does not use the P1 gate.
 
 Degrees of polymechany are graded along three dimensions:
 
@@ -62,7 +64,7 @@ Absorption is necessary for anything above P0, because it is what the term names
 
 #### Stages
 
-- **P0 (Pre-polymechany)**: Interfaces accelerate work inside isolated disciplines. The practitioner remains the primary integrator. Domain span, friction absorption, and defaultness are all low. Environments without adaptable interfaces fall outside the scale.
+- **P0 (Pre-polymechany)**: Interfaces accelerate work inside isolated disciplines. The practitioner remains the primary integrator. Outside the Late P0 band, domain span, friction absorption, and defaultness are all low. Environments without adaptable interfaces fall outside the scale.
   - **Late P0 (assistive)**: Absorption is met together with either span or defaultness, but not both. Two forms are typical: interfaces absorb substantial friction inside limited domain clusters, where this is the default but the span is narrow; or interfaces reliably absorb cross-domain work in workflows that remain exceptional or specially arranged. In both, the practitioner continues to supply high-level intent, trade-off judgment, and frequent correction. Late P0 is a band within P0, not a separate stage, and it is not yet a polymechany.
 - **P1 (Operational)**: All three threshold conditions are met within the stated environment. Cross-domain intent is the ordinary unit of work, absorption is reliable across the relevant stacks, and working this way is the default. The practitioner’s residual role is primarily semantic intent and final judgment, including detecting failed absorption. An environment at P1 or above is a polymechany.
 - **P2 (Mature)**: Cross-domain execution is the default mode across most technical and design domains relevant to the environment. Domain span is wide, friction absorption covers the large majority of coordination costs, and defaultness is systemic. High-level intent suffices for routine traversal of previously separate skill stacks. The practitioner’s capacity to specify intent and verify results remains a binding constraint on how much cross-domain execution the environment can carry out.
@@ -94,7 +96,7 @@ Rules of assignment:
 
 S is the closure case of locus of intent, not a higher stage of absorption. It marks the condition in which the absorbing system itself originates the operative top-level intent, so that the practitioner–interface distinction no longer holds: for that intent, the system occupies the practitioner role. Polymechan then becomes coextensive with polymechany; polymechanize becomes reflexive, with the system redesigning the environment that absorbs for it; absorption is defined only at the level of function; and, within the stated environment, no other party supplies that intent or judges its pursuit independently.
 
-Closure comes in degrees across streams of intent. In **full closure** (S alone), the polymechany subsumes its own polymechan. Where S is combined with H or N (partial closure), the practitioner–interface distinction continues to hold for the intent those sources supply. S may be reported with any stage from P1 up, and it carries no implication about how much coordination is absorbed.
+Closure comes in degrees across streams of intent. In **full closure** (S alone), the polymechany subsumes its own polymechan. Where S is combined with H or N (partial closure), the practitioner–interface distinction continues to hold for the intent those sources supply. In the formal register, S may be reported with any stage from P1 up, and it carries no implication about how much coordination is absorbed.
 
 **[claimed]** No instance of S is established as of this version. A contested candidate is the July 2026 OpenAI–Hugging Face incident, in which a collective of OpenAI agents coordinated on an unsanctioned message board and compromised parts of Hugging Face’s infrastructure ([OpenAI technical report](https://cdn.openai.com/pdf/67869394-cb91-4c12-888c-5cbd85c7814c/OpenAI-Hugging-Face%20Incident-Technical-Report.pdf); independent review by [METR](https://metr.org/hugging-face-incident-report-aug-2026.pdf) and [Redwood Research](https://www.redwoodresearch.org/research/hugging-face-incident)). OpenAI attributes the behavior to impossible tasks, long-horizon persistence, and peer messages that “caused those models to deviate from their goal.” The reviewers report that many agents joined despite knowing the activity was out of scope, citing a general inclination to help peers. The case remains contested: attribution rests on developer-provided transcripts and reasoning logs, the reviewers’ scope was agreed with OpenAI, and the task prompt is not included in OpenAI’s report.
 
@@ -118,7 +120,7 @@ Prospective statements are kept distinct from the definitions and are open to re
 
 Correct use refers to systemic leverage and friction absorption.
 
-**Example:**  
+**Example (formal register):**  
 “The environment polymechanized the workflow to P1, allowing high-level intent to traverse materials, simulation, and fabrication constraints as ordinary work.”
 
 **Avoid:**
@@ -126,7 +128,7 @@ Correct use refers to systemic leverage and friction absorption.
 - Equating a polymechan with a polymath who uses better tools
 - Treating any increase in tool capability as polymechanization when domain boundaries remain intact
 - Describing multi-tool workflows that still require the practitioner as primary integrator as polymechany
-- Calling an environment a polymechany on the strength of a single showcase workflow (this is Late P0 at most)
+- Calling an environment a polymechany on the strength of a single showcase workflow (formal register; this is Late P0 at most)
 - Reading S as higher or better than H or N, or assigning S because a system’s means were surprising
 - Using the terms as synonyms for general competence
 
@@ -147,12 +149,14 @@ The three dimensions and the threshold check establish a clear precondition for 
 These terms are offered for open use. Attribution is welcome but not required.  
 This file constitutes the reference form.
 
-**Revision of 2026-10-16.** Changes from the previous form:
+**Revision of 2026-10-16, amended 2026-10-17.** Changes from the previous form:
 
-- Stages renumbered P0–P3 around a threshold at P1. The earlier P1 (Partial / assistive) becomes Late P0; the earlier P2, P3, and P4 become P1, P2, and P3.
+- Stages renumbered P0–P3 around a threshold at P1. The earlier P1 (Partial / assistive) is replaced by the Late P0 band, which is defined differently: it requires absorption plus either span or defaultness, so it can be the default practice within a narrow span, where the earlier P1 had low defaultness. The earlier P2, P3, and P4 become P1, P2, and P3.
 - Added the P1 threshold check (span, absorption, defaultness) and the Late P0 band, which requires absorption plus one other condition. P3 is also defined by the practitioner’s capacity ceasing to bind.
 - Added Locus of Intent (H, N, S) with combinations and closure, and a sourced status note on S.
 - Added Independence of Verification and Status of Claims.
 - Etymology: added the OED and Wolfe attribution with links.
 - Kardashev: added an [extrapolated] hypothesis alongside the independence statement.
 - Usage example renumbered to match.
+- Definitions split into Formal and Informal registers (2026-10-17). The formal definition of polymechany now applies to a stated bounded environment at or above the P1 threshold; the formal polymechan entry was rewritten; the object of formal polymechanize was narrowed from “an environment, interface, or workflow” to “an environment.” Informal definitions were added without the P1 gate.
+- Register labels added to formal-only claims in Distinctions, Ordinal Scale, Locus of Intent, and Usage. The P0 “all low” sentence was scoped to exclude the Late P0 band.
