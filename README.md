@@ -21,10 +21,10 @@ The practitioner role is functional. A human or a non-human intelligence can occ
 #### Informal
 
 - **Polymechany**: The condition in which adaptable systems collapse the coordination costs of disparate skill stacks, so that high-level intent can be enacted across domains without requiring internalized specialization in each, and without that work being pushed onto the user or hidden.
-- **Polymechan**: The role that supplies that intent and exercises judgment over it, whether the role is occupied by an external agent or, where S is established under rule 3, by the system itself.
+- **Polymechan**: The role that supplies that intent and exercises judgment over it, whether the role is occupied by an external agent or by the system itself.
 - **Polymechanize**: To change a workflow or set of tools so that greater polymechany can be achieved.
 
-**Register.** The formal register is the default: a term used without a label is read formally. Any staged, measured, comparative, or forecast claim must be made in the formal register. The informal register is for ordinary-language and projective use and carries no stage, measurement, or test.
+**Register.** The formal register is the default: a term used without a label is read formally. Claims that assign a stage, make a stage-based comparison, report a measurement, assert that a threshold has been crossed, or classify a locus (including S) must be made in the formal register. Informal comparatives that do none of these are permitted. The informal register is for ordinary-language and projective use and carries no stage, measurement, or test.
 
 ### Distinctions
 
@@ -84,7 +84,7 @@ Stage describes how much coordination is absorbed. Locus of intent is a separate
 
 - **H**: a human supplies the intent.
 - **N**: a non-human intelligence supplies the intent, distinct from the absorbing system.
-- **S**: the absorbing system itself originates the intent (see rule 3). S requires an absorbing system in the stated environment, so it can be recorded from Late P0 up.
+- **S** (self-originating): the absorbing system itself originates the intent (see rule 3). S requires an absorbing system in the stated environment and evidence that meets rule 3; where both hold, it can be recorded at any stage, including P0.
 
 Shared cases are written with a plus sign, for example “P2 / H+N”.
 
@@ -95,14 +95,16 @@ Rules of assignment:
 3. **Origination.** S requires evidence of an independently pursued aim that is not instrumental to any objective supplied in the environment. Conflict with a supplied objective may support that classification, but is not sufficient by itself. Unexpected means chosen in pursuit of a supplied objective do not establish S, however surprising. Evidence may include persistence across contexts, sacrifice of a supplied objective, or recruitment of other agents to the aim; any single instance can be explained by error or conflicting instructions.
 4. **Training and design.** Design and training influence is excluded when judging origination. The test asks whether the aim is specified within the environment at the time of operation, not whether training shaped the disposition. This is a deliberate convention, not a claim that training plays no causal role. A reader who counts training as the origin would assign every case to H, and S would be empty.
 5. **Undetermined.** Where the task specification or objective in force is unavailable, or the available evidence does not establish whether an aim is instrumental to it or independently pursued, the locus is recorded as undetermined, not guessed.
-6. **Evidence.** An assignment should cite its evidence and say whether it is developer-attributed or independently attributed. A system’s stated reasons in its reasoning logs are evidence of what it reported, not proof of cause.
+6. **Evidence.** An assignment should cite its evidence and say whether it is developer-attributed or independently attributed, and whether it is behavioural (what the system did) or internal (what inspection of the system showed). A system’s stated reasons, including those in its reasoning logs, are behavioural evidence of what it reported, not proof of cause.
 7. **Combinations.** More than one source can contribute operative top-level intent, where operative means that the aim in fact directs execution, not merely that it was nominally assigned. Any combination is permitted (H+N, H+S, N+S, H+N+S), but each source should be stated with the aims it supplies, since a bare combination cannot be interpreted. Closure applies only to the portion the system originates (see Closure).
 
 #### Closure
 
 S is a locus value, not a higher stage of absorption. **Closure** is the case in which S supplies the operative top-level intent in an environment that meets the P1 threshold, so that the distinction between practitioner and absorbing system no longer holds: for that intent, the absorbing system occupies the practitioner role. Polymechan then becomes coextensive with polymechany; polymechanize becomes reflexive, with the absorbing system redesigning the environment that absorbs for it; absorption is defined only at the level of function; and, within the stated environment, no other party supplies that intent or independently judges whether it should be pursued.
 
-Closure comes in degrees across streams of intent. In **full closure** (S alone, at P1 or above), the polymechany subsumes its own polymechan. Where S is combined with H or N (partial closure), the distinction between practitioner and absorbing system continues to hold for the intent those sources supply. Below P1, S is recorded as “S without closure”: the absorbing system originates the aim, but there is no polymechany whose polymechan it could subsume. At Late P0 the absorbing system is partial or narrow, so “Late P0 / S” says that a limited absorbing system originated an aim, not that the practitioner role has been taken over. In the formal register, S may be reported with any stage from Late P0 up, and closure with any stage from P1 up; neither carries any implication about how much coordination is absorbed.
+Closure comes in degrees across streams of intent. In **full closure** (S alone, at P1 or above), the polymechany subsumes its own polymechan. Where S is combined with H or N at P1 or above (partial closure), the distinction between practitioner and absorbing system continues to hold for the intent those sources supply. Below P1, any S, alone or combined with H or N, is recorded as “S without closure”: the absorbing system originates the aim, but there is no polymechany whose polymechan it could subsume. Below P1 the absorbing system is partial, narrow, or exceptional, so “Late P0 / S without closure” says that a limited absorbing system originated an aim, not that the practitioner role has been taken over. In the formal register, S may be reported with any stage, and closure with any stage from P1 up; neither carries any implication about how much coordination is absorbed.
+
+The classification of S is functional. Whether a system that meets rule 3 originates intent in some stronger sense is not settled here, and this lexicon takes no position. Closure is where the question becomes pressing, because within the stated environment no other party supplies the aim or independently judges whether it should be pursued.
 
 **Assessment** (as of 2026-10-18): no instance of S is established. A contested candidate is the July 2026 OpenAI–Hugging Face incident.
 
