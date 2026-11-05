@@ -20,6 +20,8 @@ The practitioner role is functional. A human or a non-human intelligence can occ
 
 **Interface** has its ordinary sense: the means through which a system is worked with, and so the point where intent enters the system. The **absorbing system** is the interface together with whatever it uses to perform or coordinate the work an intent requires: translation between domains, constraint work, and intermediate technical work (see absorption, under Distinctions). Constraint work means identifying, reconciling, and satisfying constraints across domains. Absorption is a relation between the practitioner and the absorbing system. A **skill stack** is the set of specialist skills and tools that a domain ordinarily requires.
 
+**Intent** means the aim governing the work; an expressed intention states an aim but does not by itself establish what aim governs the work. Prompt and command keep their ordinary senses and are not formal terms here.
+
 #### Informal
 
 - **Polymechany**: The condition in which adaptable systems take on the coordination costs of disparate skill stacks, so that high-level intent can be enacted across domains without requiring internalized specialization in each, and without that work being pushed onto the user or hidden.
@@ -149,7 +151,7 @@ Correct use refers to systemic leverage and friction absorption.
 
 Polymechany is conceptually independent of the Kardashev energy scale. Kardashev (N. S. Kardashev, “Transmission of Information by Extraterrestrial Civilizations,” *Soviet Astronomy* 8, 217, 1964) ranks energy consumption; polymechany ranks the degree to which cross-domain coordination costs are absorbed. The two may be reported side by side, but neither determines the other.
 
-**[extrapolated]** If the absorption of cross-domain coordination costs continues to rise, then the binding constraint on productive capacity shifts from coordination toward energy, materials, and knowledge (at P3 the practitioner’s capacity no longer binds), and a given energy consumption converts into more cross-domain, intention-directed outcomes. This is a claim about the empirical relation between the two scales, not about their definitions.
+**[extrapolated]** If the absorption of cross-domain coordination costs continues to rise, then the binding constraint on productive capacity shifts from coordination toward energy, materials, and knowledge (at P3 the practitioner’s capacity no longer binds), and a given energy consumption converts into more cross-domain, intent-directed outcomes. This is a claim about the empirical relation between the two scales, not about their definitions.
 
 ### Quantification Status
 
@@ -189,6 +191,7 @@ This file constitutes the reference form. Companion documents, where they exist,
 - Wording leftovers (2026-11-05): usage example no longer “traverse”; etymology no longer says interfaces “carry” the skill.
 - Atlas follow-ons (2026-11-05): Assessment date bumped and contested grounds tied to rules 5–6; interdisciplinarity line uses environment/practitioner; qualitative judgment line cites separate specialist training instead of bare “disparate”.
 - Etymology P2 (2026-11-05): cut the unsupported “practical ingenuity” gloss; revive sentence contrasts a system condition with a named personal faculty; Status of Claims cites Etymology sources in place; rule 1 records immediate source and system subgoals beside the locus once.
+- Intent lock (2026-11-05): intent remains the sole primary formal term (the aim governing the work); expressed intention is distinguished once and does not by itself establish the governing aim; prompt and command stay ordinary English; extrapolated Kardashev line uses intent-directed.
 - Assessment and etymology wording (2026-11-05): rule-5 contested ground now distinguishes summarised objective from unavailable task prompt; scope “defined by OpenAI”; 90% denominator scoped to the 533 board-active agents; Homeric glosses use LSJ “resourceful, inventive”; revive contrast is system condition vs personal capacity or practice.
 - Item 14 leftovers (2026-11-05): P0 scoped outside Late P0; friction absorption limited to relevant cross-domain work; P2/P3 deferred as degree judgment with no Late-P0-style band above P1; divergence sentence defers to the P1 combination rule; formal usage example uses team + toolchain at P1 / H.
 - Definitions wording (2026-11-05): formal polymechany attributes coordination-cost take-on to the absorbing system; informal uses “take on” rather than “collapse”; P1 Absorption includes perform or coordinate and intermediate technical work.
