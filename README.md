@@ -1,6 +1,8 @@
 **Lexicon of Polymechany**
 
-> Reference definitions for **polymechany**, **polymechan**, and **polymechanize** — the systemic condition in which adaptable interfaces collapse the coordination costs of disparate skill stacks.
+**Polymechany** is a condition in which adaptable interfaces make it possible to act across disparate fields through high-level intent, without requiring the person or system directing the work to master each field. The surrounding system performs or coordinates the work of translating between fields, handling constraints, and carrying out intermediate technical steps.
+
+That work must actually be handled, not merely hidden, deferred, or passed to another party. Unlike **polymathy**, which involves acquiring knowledge across fields, polymechany concerns what the surrounding system makes possible without that personal breadth of expertise. Unlike ordinary **automation**, which replaces particular tasks, polymechany concerns the coordination of work across fields.
 
 ### Etymology
 
