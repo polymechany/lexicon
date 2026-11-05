@@ -6,7 +6,7 @@ That work must actually be handled, not merely hidden, deferred, or passed to an
 
 ### Etymology
 
-From Greek *polymēchanos* (“of many devices,” “ingenious in contrivance”), an epithet applied to Odysseus in the Iliad and Odyssey for resourcefulness in means rather than breadth of learning; the abstract noun is *polymēchania* (πολυμηχανία). The [OED](https://www.oed.com/dictionary/polymechany_n) records the English noun *polymechany* as obsolete, with its only known use in the late 1500s (earliest evidence 1592, Gabriel Harvey, whose *Foure Letters* of that year use the word; [text in G. Gregory Smith, *Elizabethan Critical Essays*, vol. 2](https://archive.org/stream/elizabethancriti002smit/elizabethancriti002smit_djvu.txt)). It reappears as the title of a chapter on Harvey in Jessica Wolfe’s *Humanism, Machinery, and Renaissance Literature* (Cambridge University Press, 2004; Chapter 4, “The polymechany of Gabriel Harvey,” p. 125; [contents](https://assets.cambridge.org/97805211/23761/frontmatter/9780521123761_frontmatter.pdf)). In those uses the word names a person’s practical ingenuity. This lexicon revives it with a different referent, a condition of a system in which interfaces carry that skill, and retains the root *mēchanē* (device, contrivance) to emphasize tool- and system-mediated capability over internalized knowledge.
+From Greek *polymēchanos* (“of many devices,” “ingenious in contrivance”), an epithet applied to Odysseus in the Iliad and Odyssey for resourcefulness in means rather than breadth of learning; the abstract noun is *polymēchania* (πολυμηχανία). The [OED](https://www.oed.com/dictionary/polymechany_n) records the English noun *polymechany* as obsolete, with its only known use in the late 1500s (earliest evidence 1592, Gabriel Harvey, whose *Foure Letters* of that year use the word; [text in G. Gregory Smith, *Elizabethan Critical Essays*, vol. 2](https://archive.org/stream/elizabethancriti002smit/elizabethancriti002smit_djvu.txt)). It reappears as the title of a chapter on Harvey in Jessica Wolfe’s *Humanism, Machinery, and Renaissance Literature* (Cambridge University Press, 2004; Chapter 4, “The polymechany of Gabriel Harvey,” p. 125; [contents](https://assets.cambridge.org/97805211/23761/frontmatter/9780521123761_frontmatter.pdf)). In those uses the word names a person’s practical ingenuity. This lexicon revives it with a different referent, a condition of a system in which that skill is carried through its interfaces, and retains the root *mēchanē* (device, contrivance) to emphasize tool- and system-mediated capability over internalized knowledge.
 
 ### Definitions
 
@@ -134,7 +134,7 @@ Prospective statements are kept distinct from the definitions and are open to re
 Correct use refers to systemic leverage and friction absorption.
 
 **Example (formal register):**  
-“The environment polymechanized the workflow to P1, allowing high-level intent to traverse materials, simulation, and fabrication constraints as ordinary work.”
+“The environment polymechanized the workflow to P1, allowing high-level intent to be enacted across materials, simulation, and fabrication constraints as ordinary work.”
 
 **Avoid:**
 
@@ -162,7 +162,7 @@ The three dimensions and the threshold check establish a clear precondition for 
 These terms are offered for open use. Attribution is welcome but not required.  
 This file constitutes the reference form. Companion documents, where they exist, are non-normative: if a companion and this file conflict, this file governs, and each companion states the version or date of this file it was written against.
 
-**Revision of 2026-10-16, amended 2026-10-17 and 2026-10-18.** Changes from the previous form:
+**Revision of 2026-10-16, amended 2026-10-17, 2026-10-18, 2026-10-19–20, and 2026-11-05.** Changes from the previous form:
 
 - Stages renumbered P0–P3 around a threshold at P1. The earlier P1 (Partial / assistive) is replaced by the Late P0 band, which is defined differently: it requires absorption plus either span or defaultness, so it can be the default practice within a narrow span, where the earlier P1 had low defaultness. The earlier P2, P3, and P4 become P1, P2, and P3.
 - Added the P1 threshold check (span, absorption, defaultness) and the Late P0 band, which requires absorption plus one other condition. P3 is also defined by the practitioner’s capacity ceasing to bind.
@@ -176,4 +176,14 @@ This file constitutes the reference form. Companion documents, where they exist,
 - Terms (2026-10-18): distinguished the interface (where intent enters) from the absorber (the system that carries out absorption), and moved the absorption conditions to the absorber; made the formal polymechan relational, so that closure is coherent; added an anti-deferral clause to the informal polymechany; stated that unmarked use is formal and that staged, measured, comparative, or forecast claims must be.
 - Absorption and scale (2026-10-18): absorption is assessed on work actually performed; the anti-deferral clause is scoped to the instance at hand; added a Dependence statement, which makes no claim of causal primacy, and changed “decisive shift” to “defining shift”; extended span to the range of intents, so that environments handling only a fixed set of intents are Late P0 at most.
 - Locus of Intent (2026-10-18): rule 1 now classes embedded objectives by what embedded them (human, H; non-human, N) and by the top of the delegation chain; rule 2 takes the absorber to be whatever the stated unit names. **Change in meaning of S:** S is no longer limited to P1 and above. It can be recorded from Late P0 wherever an absorber exists and rule 3 is met. Closure, the case in which the polymechany subsumes its own polymechan, now carries the collapse claim and still requires P1; below P1, S is recorded as “S without closure”. Separated closure from independent verification of outputs.
-- Verification and claims (2026-10-18): “none” is recordable only below P1; widened the stipulated items in Status of Claims, with etymological and bibliographic statements cited in place; added dated Assessment as a mark; split the S note into assessment and [claimed] report; scoped the statement about proxies to this file; Homeric usage named for Odysseus only; added a Kardashev citation.
+- Verification and claims (2026-10-18): “none” is recordable only below P1; widened the stipulated items in Status of Claims, with etymological and bibliographic statements cited in place; added dated Assessment as a mark; split the S note into assessment and [claimed] report; scoped the statement about proxies to this file; Homeric usage named for Odysseus (later scoped to the Iliad and Odyssey); added a Kardashev citation.
+
+- Conventional terms (2026-10-19): retired “absorber” in favour of “the absorbing system”; kept “interface” in its ordinary sense.
+- Rule 2 and undetermined (2026-10-19): stated the unit of analysis (a single agent or a collective) and took that unit as the absorbing system for the assignment; broadened undetermined under rule 5.
+- Locus, closure, register, and informal polymechan (2026-10-19): S recordable at any stage where an absorbing system exists and rule 3 is met; closure only at P1 or above; open-boundary sentence on the functional reading of S; evidence typed as behavioural or internal; register required for stage, measurement, threshold, or locus claims; informal polymechan restored to occupancy wording without importing the rule 3 test.
+- Absorbing system without the practitioner (2026-10-20): defined the interface and the absorbing system without referring to the practitioner.
+- Opening layer (2026-11-05): replaced the one-line blurb with two ordinary-language paragraphs (definition sense, anti-deferral, polymathy and automation contrasts), with no P1, closure, locus, or rule 3 above the fold.
+- Span (2026-11-05): Domain span and condition 1 require demonstrated execution, including for intents not specified in advance; dropped travel metaphors; P2 “traversal” became “execution across”; revises the 2026-10-18 “range of intents” phrasing.
+- Environment (2026-11-05): practitioners operate through interfaces.
+- Sources (2026-11-05): Kardashev ranks energy consumption; METR and Redwood are one joint review; reviewers’ “unethical” restored; unverified Wolfe content claim dropped; Odysseus epithet scoped to the Iliad and Odyssey.
+- Wording leftovers (2026-11-05): usage example no longer “traverse”; etymology no longer says interfaces “carry” the skill.
