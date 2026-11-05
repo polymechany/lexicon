@@ -51,14 +51,14 @@ The ordinal scale, including the P1 threshold and its stages, belongs to the for
 Degrees of polymechany are graded along three dimensions:
 
 - **Domain span**: the heterogeneity of skill stacks across which work is actually executed from a single high-level intent, and whether that execution also occurs for intents not specified in advance.
-- **Friction absorption**: the fraction of translation, constraint work, and intermediate technical work performed by the absorbing system rather than by the practitioner.
+- **Friction absorption**: the fraction of the relevant cross-domain translation, constraint work, and intermediate technical work performed by the absorbing system rather than by the practitioner.
 - **Defaultness**: the extent to which cross-domain execution is the ordinary mode of action in the environment rather than an exceptional practice.
 
 An environment is any bounded setting in which practitioners operate through interfaces, such as a toolchain, workflow, team, or organization. Stage assignments are relative to the stated environment.
 
 The scale describes the degree of absorption, not its desirability. Higher stages do not imply better outcomes, and “polymechanize” names an intervention, not an endorsement.
 
-The three dimensions need not advance together. An environment may show high domain span with low reliability, high friction absorption inside a narrow cluster, or high defaultness without genuine cross-domain span. When the dimensions diverge, stage assignment is a matter of explicit judgment rather than a mechanical rule.
+The three dimensions need not advance together. An environment may show high domain span with low reliability, high friction absorption inside a narrow cluster, or high defaultness without genuine cross-domain span. When the dimensions diverge, the P1 threshold below fixes how the conditions combine (P0, Late P0, or P1); whether each condition is met, and placement above P1, remain matters of explicit judgment rather than a mechanical rule.
 
 #### The P1 Threshold
 
@@ -72,13 +72,13 @@ Absorption is necessary for anything above P0, because it is what the term names
 
 #### Stages
 
-- **P0 (Pre-polymechany)**: Interfaces accelerate work inside isolated disciplines. The practitioner remains the primary integrator. Outside the Late P0 band, domain span, friction absorption, and defaultness are all low. Environments without adaptable interfaces fall outside the scale.
+- **P0 (Pre-polymechany)**: The P1 threshold is not met. Outside the Late P0 band, interfaces accelerate work inside isolated disciplines, the practitioner remains the primary integrator, and domain span, friction absorption, and defaultness are all low. Environments without adaptable interfaces fall outside the scale.
   - **Late P0 (assistive)**: Absorption is met together with either span or defaultness, but not both. Two forms are typical: the absorbing system takes on substantial friction inside limited domain clusters, or for a fixed set of intents, where this is the default but the span is narrow; or the absorbing system reliably takes on cross-domain work in workflows that remain exceptional or specially arranged. In both, the practitioner continues to supply high-level intent, trade-off judgment, and frequent correction. Late P0 is a band within P0, not a separate stage, and it is not yet a polymechany.
 - **P1 (Operational)**: All three threshold conditions are met within the stated environment. Cross-domain intent is the ordinary unit of work, absorption is reliable across the relevant stacks, and working this way is the default. The practitioner’s residual role is primarily semantic intent and final judgment, including detecting failed absorption. An environment at P1 or above is a polymechany.
 - **P2 (Mature)**: Cross-domain execution is the default mode across most technical and design domains relevant to the environment. Domain span is wide, friction absorption covers the large majority of coordination costs, and defaultness is systemic. High-level intent suffices for routine execution across previously separate skill stacks. The practitioner’s capacity to specify intent and verify results remains a binding constraint on how much cross-domain execution the environment can carry out.
 - **P3 (Saturated)**: Friction absorption is near-complete and defaultness is total within the environment. In addition, the practitioner’s finite capacity to specify intent, exercise judgment, and verify results no longer limits the breadth or rate of cross-domain execution. A working test is whether additional practitioner capacity would increase what the environment can accomplish; at P3 it would not. The capacity in question belongs to whatever occupies the practitioner role, human or non-human. What still constrains outcomes is the quality of intent and judgment, and limits outside coordination, such as resources and physical limits.
 
-P2 and P3 are described by degree and do not yet have threshold checks of their own. Bands above P1 are deferred until they do. Decimals (e.g., P1.4) may be used once quantitative proxies are established. The scale remains open to revision.
+P2 and P3 are described by degree and do not yet have threshold checks of their own. Until they do, assignment to P2 or P3 is a judgment by degree, and no band within P1 or above (comparable to Late P0 within P0) is defined. Decimals (e.g., P1.4) may be used once quantitative proxies are established. The scale remains open to revision.
 
 ### Locus of Intent
 
@@ -134,7 +134,7 @@ Prospective statements are kept distinct from the definitions and are open to re
 Correct use refers to systemic leverage and friction absorption.
 
 **Example (formal register):**  
-“The environment polymechanized the workflow to P1, allowing high-level intent to be enacted across materials, simulation, and fabrication constraints as ordinary work.”
+“The team polymechanized its design-to-fabrication toolchain to P1 / H: high-level intent is now enacted across materials, simulation, and fabrication constraints as ordinary work, with the translation and constraint work carried out by the toolchain.”
 
 **Avoid:**
 
@@ -189,3 +189,4 @@ This file constitutes the reference form. Companion documents, where they exist,
 - Wording leftovers (2026-11-05): usage example no longer “traverse”; etymology no longer says interfaces “carry” the skill.
 - Atlas follow-ons (2026-11-05): Assessment date bumped and contested grounds tied to rules 5–6; interdisciplinarity line uses environment/practitioner; qualitative judgment line cites separate specialist training instead of bare “disparate”.
 - Etymology P2 (2026-11-05): cut the unsupported “practical ingenuity” gloss; revive sentence contrasts a system condition with a named personal faculty; Status of Claims cites Etymology sources in place; rule 1 records immediate source and system subgoals beside the locus once.
+- Item 14 leftovers (2026-11-05): P0 scoped outside Late P0; friction absorption limited to relevant cross-domain work; P2/P3 deferred as degree judgment with no Late-P0-style band above P1; divergence sentence defers to the P1 combination rule; formal usage example uses team + toolchain at P1 / H.
