@@ -54,7 +54,7 @@ Degrees of polymechany are graded along three dimensions:
 - **Friction absorption**: the fraction of translation, constraint work, and intermediate technical work performed by the absorbing system rather than by the practitioner.
 - **Defaultness**: the extent to which cross-domain execution is the ordinary mode of action in the environment rather than an exceptional practice.
 
-An environment is any bounded setting in which interfaces and practitioners operate together, such as a toolchain, workflow, team, or organization. Stage assignments are relative to the stated environment.
+An environment is any bounded setting in which practitioners operate through interfaces, such as a toolchain, workflow, team, or organization. Stage assignments are relative to the stated environment.
 
 The scale describes the degree of absorption, not its desirability. Higher stages do not imply better outcomes, and “polymechanize” names an intervention, not an endorsement.
 
