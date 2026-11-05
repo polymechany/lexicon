@@ -12,7 +12,7 @@ From Greek *polymēchanos* (“of many devices,” “ingenious in contrivance�
 
 #### Formal
 
-- **Polymechany** (n.): The systemic condition in which adaptable interfaces collapse the coordination costs of disparate skill stacks, so that cross-domain execution from high-level intent becomes the ordinary unit of effective action rather than an exceptional or elite practice. Applies to a stated bounded environment (toolchain, workflow, team, or organization) that meets or exceeds the P1 threshold.
+- **Polymechany** (n.): The systemic condition in which the absorbing system takes on the coordination costs of disparate skill stacks, so that cross-domain execution from high-level intent becomes the ordinary unit of effective action rather than an exceptional or elite practice. Applies to a stated bounded environment (toolchain, workflow, team, or organization) that meets or exceeds the P1 threshold.
 - **Polymechan** (n.): A practitioner (human or non-human) who, with respect to such an environment, supplies high-level intent and exercises residual judgment, including detecting failed absorption.
 - **Polymechanize** (v.): To redesign an environment so that it absorbs technical friction and thereby lowers the barrier to cross-domain action.
 
@@ -22,7 +22,7 @@ The practitioner role is functional. A human or a non-human intelligence can occ
 
 #### Informal
 
-- **Polymechany**: The condition in which adaptable systems collapse the coordination costs of disparate skill stacks, so that high-level intent can be enacted across domains without requiring internalized specialization in each, and without that work being pushed onto the user or hidden.
+- **Polymechany**: The condition in which adaptable systems take on the coordination costs of disparate skill stacks, so that high-level intent can be enacted across domains without requiring internalized specialization in each, and without that work being pushed onto the user or hidden.
 - **Polymechan**: The role that supplies that intent and exercises judgment over it, whether the role is occupied by an external agent or by the system itself.
 - **Polymechanize**: To change a workflow or set of tools so that greater polymechany can be achieved.
 
@@ -65,7 +65,7 @@ The three dimensions need not advance together. An environment may show high dom
 The boundary between P0 and P1 marks the point at which an environment counts as a polymechany at all. An environment crosses it when all three of the following hold, each corresponding to one of the dimensions above:
 
 1. **Span.** The environment executes work across genuinely disparate skill stacks, meaning stacks that would ordinarily require separate specialist training, from a single high-level intent, rather than merely across multiple tools or tasks within one domain, and does so for intents that were not specified in advance, rather than only for a fixed set the environment was built to handle. Span is assessed on work actually performed; capability that has not been exercised is potential, not span.
-2. **Absorption.** The absorbing system reliably performs the relevant cross-domain translation and constraint work, with failures detectable by checks the environment supplies, and with no material coordination burden, for the instance at hand, merely deferred, concealed, or transferred to the practitioner or another party. Absorption is assessed on work actually performed for an intent; capability that has not been exercised is potential, not absorption.
+2. **Absorption.** The absorbing system reliably performs or coordinates the relevant cross-domain translation, constraint work, and intermediate technical work, with failures detectable by checks the environment supplies, and with no material coordination burden, for the instance at hand, merely deferred, concealed, or transferred to the practitioner or another party. Absorption is assessed on work actually performed for an intent; capability that has not been exercised is potential, not absorption.
 3. **Defaultness.** This mode of cross-domain execution is the environment’s ordinary practice, rather than an exceptional, handcrafted, or specially arranged workflow.
 
 Absorption is necessary for anything above P0, because it is what the term names. Span and defaultness without absorption describe practitioners who integrate across domains themselves, which is multi-tool practice or personal breadth, not polymechany. An environment is therefore **Late P0** when absorption is met together with either span or defaultness, but not both. Absorption alone, within one domain, is abstraction or automation and remains P0. The conditions are qualitative: what counts as “reliably” or “material”, and where “separate specialist training” begins, remains a judgment until proxies exist.
@@ -190,3 +190,4 @@ This file constitutes the reference form. Companion documents, where they exist,
 - Atlas follow-ons (2026-11-05): Assessment date bumped and contested grounds tied to rules 5–6; interdisciplinarity line uses environment/practitioner; qualitative judgment line cites separate specialist training instead of bare “disparate”.
 - Etymology P2 (2026-11-05): cut the unsupported “practical ingenuity” gloss; revive sentence contrasts a system condition with a named personal faculty; Status of Claims cites Etymology sources in place; rule 1 records immediate source and system subgoals beside the locus once.
 - Item 14 leftovers (2026-11-05): P0 scoped outside Late P0; friction absorption limited to relevant cross-domain work; P2/P3 deferred as degree judgment with no Late-P0-style band above P1; divergence sentence defers to the P1 combination rule; formal usage example uses team + toolchain at P1 / H.
+- Definitions wording (2026-11-05): formal polymechany attributes coordination-cost take-on to the absorbing system; informal uses “take on” rather than “collapse”; P1 Absorption includes perform or coordinate and intermediate technical work.
