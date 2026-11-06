@@ -25,7 +25,7 @@ The practitioner role is functional. A human or a non-human intelligence can occ
 #### Informal
 
 - **Polymechany**: The condition in which adaptable systems take on the coordination costs of disparate skill stacks, so that high-level intent can be enacted across domains without requiring internalized specialization in each, and without that work being pushed onto the user or hidden.
-- **Polymechan**: The role that supplies that intent and exercises judgment over it, whether the role is occupied by an external agent or by the system itself.
+- **Polymechan** (also *polymech*): The role that supplies that intent and exercises judgment over it, whether the role is occupied by an external agent or by the system itself.
 - **Polymechanize**: To change a workflow or set of tools so that greater polymechany can be achieved.
 
 **Register.** The formal register is the default: a term used without a label is read formally. Claims that assign a stage, make a stage-based comparison, report a measurement, assert that a threshold has been crossed, or classify a locus (including S) must be made in the formal register. Informal comparatives that do none of these are permitted. The informal register is for ordinary-language and projective use and carries no stage, measurement, or test.
